@@ -4,16 +4,6 @@
 
 <br>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nav-kumar495/nav-kumar495/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nav-kumar495/nav-kumar495/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/nav-kumar495/nav-kumar495/output/github-snake.svg" />
-</picture>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -29,6 +19,15 @@
 </div>
 
 <br>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nav-kumar495/nav-kumar495/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nav-kumar495/nav-kumar495/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/nav-kumar495/nav-kumar495/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <h2 align="left">🛠 Tech Stack</h2>
 
